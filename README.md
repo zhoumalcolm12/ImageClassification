@@ -1,23 +1,23 @@
-# ImageClassification
+## ImageClassification
 Image Classification Optimization
 
 Project code file:
-ANLY601Project-Baseline.ipynb/
-ANLY601Project-Augmentation.ipynb/
-ANLY601Project-3layerCNN.ipynb/
-ANLY601Project-Augmentation-3layer.ipynb/
-ANLY601Project-Pretrained.ipynb
+* ANLY601Project-Baseline.ipynb/
+* ANLY601Project-Augmentation.ipynb/
+* ANLY601Project-3layerCNN.ipynb/
+* ANLY601Project-Augmentation-3layer.ipynb/
+* ANLY601Project-Pretrained.ipynb
 
 Project Report:
-ImageClassificationOptimization.pdf
+* ImageClassificationOptimization.pdf
 
 Presentation PPT:
-ANLY601 Project Presentation.pdf
+* ANLY601 Project Presentation.pdf
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
