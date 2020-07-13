@@ -1,7 +1,6 @@
 <!-- ## Image Classification Optimization-->
-<p align="center">
-    Image Classification Optimization
-  </p>
+  <h3 align="center">Image Classification Optimization</h3>
+
 <!-- Files-->
 ## Project Related Files
 Project code file:
