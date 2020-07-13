@@ -1,6 +1,8 @@
-## Image Classification Optimization
-
-
+<!-- ## Image Classification Optimization-->
+<p align="center">
+    Image Classification Optimization
+  </p>
+<!-- Files-->
 ## Project Related Files
 Project code file:
 * [Baseline Model](https://github.com/zhoumalcolm12/ImageClassification/blob/master/ANLY601Project-Baseline.ipynb)
