@@ -2,24 +2,24 @@
 Image Classification Optimization
 
 Project code file:
-* ANLY601Project-Baseline.ipynb/
-* ANLY601Project-Augmentation.ipynb/
-* ANLY601Project-3layerCNN.ipynb/
-* ANLY601Project-Augmentation-3layer.ipynb/
-* ANLY601Project-Pretrained.ipynb
+* [Baseline Model](https://github.com/zhoumalcolm12/ImageClassification/blob/master/ANLY601Project-Baseline.ipynb)
+* [Data Augmentation Model](https://github.com/zhoumalcolm12/ImageClassification/blob/master/ANLY601Project-Augmentation.ipynb)
+* [3layer CNN Model](https://github.com/zhoumalcolm12/ImageClassification/blob/master/ANLY601Project-3layerCNN.ipynb)
+* [3layer CNN and Data Augmentation Model](https://github.com/zhoumalcolm12/ImageClassification/blob/master/ANLY601Project-Augmentation-3layer.ipynb)
+* [Pretrained Model](https://github.com/zhoumalcolm12/ImageClassification/blob/master/ANLY601Project-Pretrained.ipynb)
 
 Project Report:
-* ImageClassificationOptimization.pdf
+* [ImageClassificationOptimization](https://github.com/zhoumalcolm12/ImageClassification/blob/master/ImageClassificationOptimization.pdf)
 
 Presentation PPT:
-* ANLY601 Project Presentation.pdf
+* [ANLY601 Project Presentation](https://github.com/zhoumalcolm12/ImageClassification/blob/master/ANLY601 Project Presentation.pdf)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+How to improve image classification model accuracy while keeping fast-paced data processing speed? What need to do to solve overfitting problem caused by deep learning model without information sacrifice? In this project, we will compare 5 image classification models with different image processing technique and convolutional neural network structure to figure out tools for optimizing performance of image classification model.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
