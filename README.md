@@ -30,4 +30,8 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/mengzhi-zhou-5a717aa2/]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/mengzhi-zhou-5a717aa2/
