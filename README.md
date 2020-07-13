@@ -1,5 +1,5 @@
 <!-- ## Image Classification Optimization-->
-  <h3 align="center">Image Classification Optimization</h3>
+  <h1 align="center">Image Classification Optimization</h1>
 
 <!-- Files-->
 ## Project Related Files
