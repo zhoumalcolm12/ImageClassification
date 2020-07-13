@@ -13,3 +13,5 @@ ImageClassificationOptimization.pdf
 
 Presentation PPT:
 ANLY601 Project Presentation.pdf
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
