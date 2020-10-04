@@ -14,7 +14,7 @@ Project Report:
 * [ImageClassificationOptimization](https://github.com/zhoumalcolm12/ImageClassification/blob/master/ImageClassificationOptimization.pdf)
 
 Presentation PPT:
-* [ANLY601 Project Presentation](https://github.com/zhoumalcolm12/ImageClassification/blob/master/ANLY601 Project Presentation.pdf)
+* [ANLY601 Project Presentation](https://github.com/zhoumalcolm12/ImageClassification/blob/master/ANLY601_Project_Presentation.pdf)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
